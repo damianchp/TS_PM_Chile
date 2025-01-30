@@ -1,4 +1,4 @@
-# PM2.5_PM10_time_series_SINCA
+# Time Series PM2.5 Chile
 
 
 Time series analysis of PM2.5 including plots and component plots for 34 Chilean cities between 2013 and 2021
